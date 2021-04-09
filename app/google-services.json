@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194154218743",
+    "firebase_url": "https://galdetu-ada23-default-rtdb.firebaseio.com",
+    "project_id": "galdetu-ada23",
+    "storage_bucket": "galdetu-ada23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194154218743:android:d142a0070600ebb4b5bff2",
+        "android_client_info": {
+          "package_name": "com.rodrigobak.galdetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194154218743-39rt1ie3501jl11eus5s9m24v248j2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIa0c-fUZKRhSDqut0OpbN4a2dlkAbck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194154218743-39rt1ie3501jl11eus5s9m24v248j2ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

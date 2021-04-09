@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Galdetu</string>
+
+    <!--AdMob Ads Id-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewardedVideo_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!--AdMob consent SDK -->
+    <string name="pub_id">pub-3940256099942544</string>
+    <string name="gdpr_privacypolicy">https://firebasestorage.googleapis.com/v0/b/puzzles-ccccb.appspot.com/o/GDPR_PrivacyPolicy.pdf?alt=media&amp;token=22d63919-a1a8-44b0-876f-47e8ac7064bc</string>
+    <string name="ads">Ads Settings</string>
+
+    <!-- MainActivity Java & xml-->
+    <string-array name="alphabet">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+
+    <string name="please_wait">Por favor espere...</string>
+    <string name="continue_button">Continue</string>
+    <string name="adsCounter">5</string>
+    <string name="adsText1">Genial!\n lo has completado </string>
+    <string name="adsText2">del nivel\n \nPuedes tomar un breve descanso ahora</string>
+    <string name="replay_button">Volver a jugar</string>
+    <string name="back">Atras</string>
+    <string name="pass_average">50</string>
+    <string name="failedLevel">Level Failed!</string>
+    <string name="failedAverage"> Tu promedio es:\n </string>
+    <string name="endLevel">Felicitaciones!\n Has completadp este nivel!\n\n Tu promedio es: </string>
+    <string name="show_ads">Vea este anuncio para revelar la respuesta</string>
+    <string name="checkInternet">Por favor revise su conexion a internet</string>
+    <string name="reveald">La respuesta es revelada</string>
+    <string name="perfect">Perfecto!</string>
+    <string name="try_again">Intentarlo de nuevo</string>
+    <string name="level">Nivel</string>
+    <string name="show_answer">Ver respuesta</string>
+    <string name="askfriends">Preguntarle a un amigo</string>
+    <string name="skip_ad">Vea este anuncio para omitir esta pregunta</string>
+    <string name="skip_score">1</string>
+    <string name="skip_score_warning">Saltar requiere más de </string>
+    <string name="score">Puntuacion</string>
+
+
+    <string name="done">Terminado</string>
+    <string name="nodata">No hay datos a este nivell.</string>
+    <string name="select_any_letter">Seleccione un campo para insertar una nueva opción en él.</string>
+    <string name="empty_fields">Seleccione la siguiente letra, los campos vacíos no se pueden omitir</string>
+
+    <!-- Navigation drawer-->
+    <string name="levels_title">Categorias</string>
+    <string name="settings_title">Configuracion</string>
+    <string name="remove_ads_title">Quitar anuncios</string>
+    <string name="share_title">Compartir</string>
+    <string name="rate_title">Calificar</string>
+    <string name="contact_us_title">Contacta con nosotros</string>
+    <string name="privacypolicy_title">Política de privacidad</string>
+    <string name="email">rodrigosebastianbak@hotmail.com</string>
+    <string name="adsremovedone">Tu compra fue exitosa</string>
+    <string name="adsremovenot">Tu compra falló</string>
+    <string name="sorry">Disculpe, ocurrió un error</string>
+    <string name="sorry_billing">Lo sentimos, la facturación de Google no está disponible en su dispositivo</string>
+    <string name="sound_title">Efectos de sonido</string>
+    <string name="reset_ads_title">Restablecer anuncios</string>
+    <string name="profile_title">Perfiles</string>
+
+    <!--Login Activity Java & xml-->
+    <string name="signin_by_google">Iniciar con Google</string>
+    <string name="later">Jugar sin iniciar sesion</string>
+
+    <!--Profile Activity Java & xml-->
+    <string name="please_signin">Por favor, registrese.</string>
+    <string name="signin_action">Registrarse</string>
+    <string name="updateName">Introduzca su nombre</string>
+    <string name="changename">Cambiar</string>
+    <string name="namechanged">Se ha cambiado el nombre</string>
+    <string name="nameTitle">Nombre</string>
+    <string name="chooseImage">Cambiar imagen</string>
+    <string name="checkInputs">Revisa tus inputs</string>
+    <string name="nameChanged">Se ha cambiado el nombre.</string>
+    <string name="imageChanged">La imagen se ha cambiado correctamente</string>
+    <string name="imageNotUploaded">La imagen no se ha subido.</string>
+    <string name="imageUploaded">La imagen se ha subido correctamente.</string>
+    <string name="usersProfileURL">gs://galdetu-ada23.appspot.com/</string>
+    <string name="scoreTitle">Puntuacion</string>
+    <string name="newname">Presione enter para introducir un nuevo nombre</string>
+    <string name="nowinner">No hay datos disponibles</string>
+    <string name="leaderboard">Tabla de puntuaciones</string>
+    <string name="login">Iniciar sesion para clasificar en la tabla</string>
+    <string name="loginTitle">Login</string>
+
+    <!--Kindly don't change these lines-->
+    <string name="nav_drawer_opened">Abierto</string>
+    <string name="nav_drawer_closed">Cerrado</string>
+
+
+</resources>

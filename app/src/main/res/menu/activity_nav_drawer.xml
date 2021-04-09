@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/levels"
+            android:icon="@drawable/levels_nav"
+            android:title="@string/levels_title" />
+
+
+
+        <item
+            android:id="@+id/leaderboard_item"
+            android:icon="@drawable/leaderboard_nav"
+            android:title="@string/leaderboard"
+             />
+        <item
+            android:id="@+id/profile_item"
+            android:icon="@drawable/profile_nav"
+            android:title="@string/profile_title"
+             />
+
+        <item
+            android:id="@+id/switch_item"
+            android:icon="@drawable/sound_nav"
+            android:title="@string/sound_title"
+            app:actionLayout="@layout/drawer_switch" />
+        <item
+            android:id="@+id/remove_ads"
+            android:icon="@drawable/remove_ads_nav"
+            android:title="@string/remove_ads_title" />
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share_nav"
+            android:title="@string/share_title" />
+
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/rate_nav"
+            android:title="@string/rate_title" />
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact_us_nav"
+            android:title="@string/contact_us_title" />
+        <item
+            android:id="@+id/privacypolicy"
+            android:icon="@drawable/privacypolicy_nav"
+            android:title="@string/privacypolicy_title" />
+        <item
+            android:id="@+id/resetAds"
+            android:icon="@drawable/settings_nav"
+            android:title="@string/reset_ads_title" />
+    </group>
+
+</menu>
